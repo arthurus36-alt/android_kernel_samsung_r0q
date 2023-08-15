@@ -1,0 +1,1 @@
+cmd_/workspaces/android_kernel_samsung_sm8450/tools/objtool/arch/x86/objtool-in.o :=  ld -r -o /workspaces/android_kernel_samsung_sm8450/tools/objtool/arch/x86/objtool-in.o  /workspaces/android_kernel_samsung_sm8450/tools/objtool/arch/x86/special.o /workspaces/android_kernel_samsung_sm8450/tools/objtool/arch/x86/decode.o

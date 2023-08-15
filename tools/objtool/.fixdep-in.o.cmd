@@ -1,0 +1,1 @@
+cmd_/workspaces/android_kernel_samsung_sm8450/tools/objtool/fixdep-in.o :=  ld -r -o /workspaces/android_kernel_samsung_sm8450/tools/objtool/fixdep-in.o  /workspaces/android_kernel_samsung_sm8450/tools/objtool/fixdep.o
